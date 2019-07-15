@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Phase 1</string>
+    <string name="title">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="url">https://andela.com/alc/</string>
+    <string name="name">Alex Freeman</string>
+    <string name="track">Track:</string>
+    <string name="alc">ALC 4 Phase 1</string>
+    <string name="track_name">Android</string>
+    <string name="country">Country:</string>
+    <string name="country_name">Ghana</string>
+    <string name="email">Email</string>
+    <string name="email_address">alexfreeman221@gmail.com</string>
+    <string name="contact">Phone Number</string>
+    <string name="slack">Anonymous</string>
+    <string name="number">:0201593223</string>
+    <string name="slack_username">The One</string>
+</resources>
